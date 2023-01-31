@@ -1,2 +1,6 @@
 # flutter_screenshot_plugin
+
 RepaintBoundary作为flutter截屏控件，截屏内容无法截取到带有播放器的播放内容页面，所以考虑调用安卓原生的截屏，故封装一个插件类似于RepaintBoundary用法
+
+
+
